@@ -1,5 +1,5 @@
 # Animal Trading Card project from Udacity Course
 
-## Final look [here]()
+## Final look [here](https://bunnydeviloper.github.io/animal-trading-card/)
 
-![Panda the Cutest](screenshot.png)
+![Panda the Cutest](https://bunnydeviloper.github.io/animal-trading-card/)
