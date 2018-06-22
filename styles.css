@@ -1,0 +1,51 @@
+h2 {
+  background: white;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #95d600;
+  border-width: thin;
+  padding-left: 12px;
+}
+
+body {
+  width: 324px;
+}
+div.container {
+  border-style: solid;
+  border-color: #95d600;
+  box-shadow: 6px 6px #ececec;
+  border-radius: 13px;
+  padding: 12px;
+  background: linear-gradient(to bottom right, #f3ffd8, #95d600, #f3ffd8, #95d600, #f3ffd8, #95d600);
+}
+
+img {
+  width: 300px;
+  border-radius: 15px;
+}
+
+.information {
+  padding: 12px;
+  margin-top: 12px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #95d600;
+  border-radius: 25px;
+  background: white;
+}
+
+#interesting-fact {
+  text-transform: capitalize;
+  font-style: italic;
+  margin: 0;
+}
+
+span {
+  padding-left: 25px;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
